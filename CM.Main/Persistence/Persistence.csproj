@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Folder Include="MongoDB\" />
-    <Folder Include="SqlDB\" />
+    <Folder Include="SqlDB\Configurations\" />
   </ItemGroup>
 
 </Project>
